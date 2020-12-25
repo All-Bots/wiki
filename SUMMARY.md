@@ -1,5 +1,5 @@
 # Table of contents
 
-* [소개](README.md)
+* [시작](README.md)
 
 
